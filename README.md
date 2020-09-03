@@ -1,2 +1,2 @@
-# awesome-power-platform
-Awesome Power Platform
+# Awesome Power Platform
+A work in progress to be added to the Awesome List.
